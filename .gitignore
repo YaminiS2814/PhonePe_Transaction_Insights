@@ -1,0 +1,5 @@
+.env
+PhonePay_venv/
+venv/
+__pycache__/
+*.pyc
